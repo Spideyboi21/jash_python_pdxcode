@@ -1,0 +1,36 @@
+.intro h1{
+  font-size: 36px;
+  color: red;
+
+}
+.intro h2{
+  background-color: red;
+  color: white;
+}
+.preamble{
+  box-shadow: 10px 22px 0px #66CC99;
+  background-color: #003300;
+  color: white;
+}
+.page-wrapper{ width: 45%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.explanation{
+  background-color: #FFFFCC;
+  box-shadow: 10px 20px 0px #66CC99;
+
+}
+
+.participation{
+  background-color: #FFFFCC;
+  box-shadow: 10px 20px 0px #66CC99;
+}
+
+.sidebar{
+float: right;
+}
+
+.wrapper{
+background-color: red; 
+}
